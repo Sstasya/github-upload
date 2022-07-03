@@ -1,0 +1,14 @@
+C:\Users\anast\source\repos\syapCsharp1\syapCsharp1\bin\Debug\netcoreapp3.1\syapCsharp1.exe
+C:\Users\anast\source\repos\syapCsharp1\syapCsharp1\bin\Debug\netcoreapp3.1\syapCsharp1.deps.json
+C:\Users\anast\source\repos\syapCsharp1\syapCsharp1\bin\Debug\netcoreapp3.1\syapCsharp1.runtimeconfig.json
+C:\Users\anast\source\repos\syapCsharp1\syapCsharp1\bin\Debug\netcoreapp3.1\syapCsharp1.runtimeconfig.dev.json
+C:\Users\anast\source\repos\syapCsharp1\syapCsharp1\bin\Debug\netcoreapp3.1\syapCsharp1.dll
+C:\Users\anast\source\repos\syapCsharp1\syapCsharp1\bin\Debug\netcoreapp3.1\syapCsharp1.pdb
+C:\Users\anast\source\repos\syapCsharp1\syapCsharp1\obj\Debug\netcoreapp3.1\syapCsharp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anast\source\repos\syapCsharp1\syapCsharp1\obj\Debug\netcoreapp3.1\syapCsharp1.AssemblyInfoInputs.cache
+C:\Users\anast\source\repos\syapCsharp1\syapCsharp1\obj\Debug\netcoreapp3.1\syapCsharp1.AssemblyInfo.cs
+C:\Users\anast\source\repos\syapCsharp1\syapCsharp1\obj\Debug\netcoreapp3.1\syapCsharp1.csproj.CoreCompileInputs.cache
+C:\Users\anast\source\repos\syapCsharp1\syapCsharp1\obj\Debug\netcoreapp3.1\syapCsharp1.dll
+C:\Users\anast\source\repos\syapCsharp1\syapCsharp1\obj\Debug\netcoreapp3.1\syapCsharp1.pdb
+C:\Users\anast\source\repos\syapCsharp1\syapCsharp1\obj\Debug\netcoreapp3.1\syapCsharp1.genruntimeconfig.cache
+C:\Users\anast\source\repos\syapCsharp1\syapCsharp1\obj\Debug\netcoreapp3.1\syapCsharp1.csproj.AssemblyReference.cache
